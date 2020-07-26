@@ -4,9 +4,6 @@
 <p>- 🎯 The Front-end intern at <a href="https://mockingbot.com" target="_blank">MockingBot</a> </p>
 <p>- 👨‍🎓 The final student pursuing Bachelors's in CS </p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![HitCount](http://hits.dwyl.com/Tomotoes/Tomotoes/Tomotoes.svg)
