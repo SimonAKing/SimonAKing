@@ -3,4 +3,4 @@
 <p>- 👨‍💻 Front | Back | Left | Right | End Engineer </p>
 <p>- ✨ Indie Hacker | Building What | People Want </p>
 
-![ViewCount](https://views.whatilearened.today/views/github/Tomotoes/Tomotoes.svg?cache=remove)
+![ViewCount](https://profile-counter.glitch.me/SimonAKing/count.svg)
