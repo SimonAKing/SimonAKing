@@ -3,4 +3,4 @@
 <p>- Front | Back | Left | Right | End Engineer </p>
 <p>- Indie Hacker | Building What People Want </p>
 <p>- AI Enthusiast | Exploring AI-powered Products </p>
-<p>- Check out my <a href="https://simonaking.com/projects" target="_blank">Projects Portfolio</a> </p>
+<p>- Check out my <a href="https://simonaking.com/projects" target="_blank">projects portfolio</a> </p>
